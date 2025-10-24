@@ -42,7 +42,10 @@ Powered by dual batteries for efficient load management, B.O.D. combines **IoT**
   <img src="Bodpic/BODUp.jpg" alt="Top View" width="30%"/>
 </p>
 
-*(Replace `images/BODFront.jpg`, etc., with your actual image paths.)*
+## 🎥 Project Demonstration
+ 
+👉 [Watch B.O.D. Demo](https://drive.google.com/drive/u/0/folders/1yET-Dif7rxD4iWoZDJ6aCSI_E2-KKk3D)
+
 
 ---
 
